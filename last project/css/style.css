@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    font-family: 'Lobster', cursive;
+    background-color: #DDFFF7;
+
+}
+h1{
+    text-align: center;
+}
+#swiper{
+    
+    margin-top: 0.9cm;
+}
+#listbox{
+  width:100%
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+  }
+  .pics{
+       margin-left: 50px;
+       margin-top: 50px;
+       display: inline-block;
+       transition: border-width 0.6s linear;
+       border: solid 5px #FFDFFA;
+       border-radius: 5px;
+
+    }
+       .pics:hover {
+        border-width: 7px;
+        border-radius: 10px;
+
+  }
+  .lorem{
+      text-align: center;
+      font-size: 30px; 
+        
+
+  }
+  #text {
+      text-decoration: underline ;
+      color: #D9AAFC;
+  }
+  
+  #navbar {
+      background-color: #462255;
+  opacity: 0.8;
+  color: aliceblue;
+  border-color: #5352ed;
+  font-size: 30px;
+  }
+  #navbar :hover {
+      opacity: 1;
+    
+  }
+  #flips{
+      
+      
+      background-color: #93E1D8;
+  }
+  #flips1{
+      margin: 0px;
+      padding: 0px;
+      height: 410;
+      width:610;
+     
+    background-color:#FFA69E;
+}
+#flips2{
+    margin: 0px;
+    padding: 0px;
+   
+  background-color:#93E1D8;
+}
+#flips3{
+    margin: 0px;
+    padding: 0px;
+   
+  background-color: #FFA69E;
+}
+  .taswira {
+      height: 400px;
+      width: 600px;
+      margin: auto;
+      display: inline-block;
+      transition: border-width 0.6s linear;
+  }
+  #taswira{
+
+      border-radius: 5px;
+      border: solid violet 7px ;
+      
+    }
+  #taswira:hover  {
+    transform: rotateY(180deg);
+    border-width: 10px;
+        border-radius: 10px;
+  }
+  #taswiraa{
+
+    border-radius: 5px;
+    border: solid #ff8c9d 7px ;
+    float: right;
+    margin-right: 30px;
+  }
+#taswiraa:hover  {
+  transform: rotateY(180deg);
+  border-width: 10px;
+      border-radius: 10px;
+}
+#taswiraaa{
+
+    border-radius: 5px;
+    border: solid #ff9d79 7px ;
+    margin-left: 25px;
+    
+  }
+#taswiraaa:hover  {
+  transform: rotateY(180deg);
+  border-width: 10px;
+      border-radius: 10px;
+}
+#taswiraa1{
+
+    border-radius: 5px;
+    border: solid #a1f1bb 7px ;
+    float: right;
+    margin-right: 30px;
+  }
+#taswiraa1:hover  {
+  transform: rotateY(180deg);
+  border-width: 10px;
+      border-radius: 10px;
+}
+
+
+  #ktiba {
+      display: inline-block;
+  }
+      
+      
+  
+  #ktiba1 {
+      
+    display: inline-block;
+    margin-left: 30px;
+   
+}
+#ktiba11 {
+   
+  display: inline-block;
+  margin-left: 30px;
+}
+  
+  footer{
+      height: 1cm;
+  }
+  
+  
+  
+  
